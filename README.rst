@@ -3,8 +3,8 @@ pizzapy
 
 Disclaimer
 -----------
-This is my fork of https://github.com/gamagori/pizzapi
-It's heavily modified and not well documented, but i'm going to get to that. the below example should work though.
+This is my fork of https://github.com/Magicjarvis/pizzapi,'
+which in and of itself is a fork of https://github.com/gamagori/pizzapi . I didn't change much, so using that repo would probably be best for you. 
 
 sorry! was kind of in a rush this morning.
 
